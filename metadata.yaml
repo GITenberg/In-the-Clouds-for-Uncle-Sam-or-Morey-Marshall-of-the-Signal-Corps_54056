@@ -7,6 +7,9 @@ contributor:
     deathdate: 1962
     gutenberg_agent_id: '45328'
     url: http://www.gutenberg.org/2009/agents/45328
+covers:
+- cover_type: archival
+  image_path: 54056-h/images/cover.jpg
 creator:
   author:
     agent_name: Sayler, H. L. (Harry Lincoln)
@@ -21,6 +24,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/2211
     - https://en.wikipedia.org/wiki/Harry_Lincoln_Sayler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54056#In-the-Clouds-for-Uncle-Sam-or-Morey-Marshall-of-the-Signal-Corps
 gutenberg_issued: '2017-01-26'
 gutenberg_type: Text
 identifiers:
